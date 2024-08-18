@@ -1,5 +1,4 @@
-<div style="width: 100%; height: 200px; background-image: url('https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif'); background-size: cover; background-position: center;">
-</div>
+<div style="width: 100%; height: 200px; background-image: url('https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif'); background-size: cover; background-position: center;"></div>
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
