@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
-<img align="right src="[https://media3.giphy.com/media/FwUr44ezV2IBwtrXQr/200w.gif?cid=6c09b952lg04ic6oz7ow7btxybuagf70nx8hzoz5ljl2uus4&ep=v1_gifs_search&rid=200w.gif&ct=g](https://i.giphy.com/FwUr44ezV2IBwtrXQr.webp)" >
+<img align="right src="https://i.giphy.com/FwUr44ezV2IBwtrXQr.webp" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evilxpirit&label=Profile%20views&color=0e75b6&style=flat" alt="evilxpirit" /> </p>
 
