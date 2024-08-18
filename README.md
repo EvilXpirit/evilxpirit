@@ -4,7 +4,7 @@
 <img src="https://i.giphy.com/FwUr44ezV2IBwtrXQr.webp" align="right" width="300" >
 
 <h3 align="left">A passionate MERN Stack Developer</h3>
-- 👨‍💻 All of my projects are available at [https://aditya-react-portfolio.vercel.app/](https://aditya-react-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at https://aditya-react-portfolio.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
