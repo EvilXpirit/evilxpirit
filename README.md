@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="100%" height="400">
 
 <h1 align="left">Hi 👋, I'm Aditya Sharma</h1>
-<img src="https://i.giphy.com/FwUr44ezV2IBwtrXQr.webp" align="right" width="300" >
+<img src="https://i.giphy.com/FwUr44ezV2IBwtrXQr.webp" align="right" width="300" style="margin-bottom: 20px;>
 
 <h3 align="left">A passionate MERN Stack Developer</h3>
 - 👨‍💻 All of my projects are available at https://aditya-react-portfolio.vercel.app
