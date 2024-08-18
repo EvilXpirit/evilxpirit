@@ -1,4 +1,4 @@
-<img height="600" width="2000" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" >
+<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
